@@ -832,7 +832,7 @@ import Foundation
 public class OpenAIConnector {
     let openAIURL = URL(string: "https://api.openai.com/v1/chat/completions")
     var openAIKey: String {
-        return "sk-proj-dEZk2HH4kUM3YoD2TisDT3BlbkFJ3OJUDljnRE6JtAKfSLP3"
+        return "YOUR-API-KEY"
     }
     
     private func executeRequest(request: URLRequest, withSessionConfig sessionConfig: URLSessionConfiguration?) -> Data? {
