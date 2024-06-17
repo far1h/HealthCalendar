@@ -831,9 +831,9 @@ import Foundation
 
 public class OpenAIConnector {
     let openAIURL = URL(string: "https://api.openai.com/v1/chat/completions")
-    var openAIKey: String {
-        return "YOUR-API-KEY"
-    }
+//    var openAIKey: String {
+//        return "YOUR-API-KEY"
+//    }
     
     private func executeRequest(request: URLRequest, withSessionConfig sessionConfig: URLSessionConfiguration?) -> Data? {
         let semaphore = DispatchSemaphore(value: 0)
