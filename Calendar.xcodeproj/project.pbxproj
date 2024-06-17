@@ -11,9 +11,15 @@
 		7993D32926486B5300406316 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7993D32826486B5300406316 /* SceneDelegate.swift */; };
 		7993D32B26486B5300406316 /* CalendarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7993D32A26486B5300406316 /* CalendarViewController.swift */; };
 		7993D33026486B5400406316 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7993D32F26486B5400406316 /* Assets.xcassets */; };
-		7993D33326486B5400406316 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7993D33126486B5400406316 /* LaunchScreen.storyboard */; };
 		7993D33C26486C5400406316 /* CalendarKit in Frameworks */ = {isa = PBXBuildFile; productRef = 7993D33B26486C5400406316 /* CalendarKit */; };
 		799963D4265997FD00AEC712 /* EKWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 799963D3265997FD00AEC712 /* EKWrapper.swift */; };
+		91F31F852C20571400C53FF6 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F31F842C20571400C53FF6 /* SettingsViewController.swift */; };
+		91F31F872C20573A00C53FF6 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F31F862C20573A00C53FF6 /* TabBarController.swift */; };
+		91F31F892C20579600C53FF6 /* ActivityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F31F882C20579600C53FF6 /* ActivityViewController.swift */; };
+		91F31F8B2C2057BA00C53FF6 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F31F8A2C2057BA00C53FF6 /* HomeViewController.swift */; };
+		91F31F8D2C2057C900C53FF6 /* ProgressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F31F8C2C2057C900C53FF6 /* ProgressViewController.swift */; };
+		91F31F8F2C2057E500C53FF6 /* HealthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F31F8E2C2057E500C53FF6 /* HealthManager.swift */; };
+		91F31F912C20583400C53FF6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91F31F902C20583400C53FF6 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,10 +28,16 @@
 		7993D32826486B5300406316 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7993D32A26486B5300406316 /* CalendarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarViewController.swift; sourceTree = "<group>"; };
 		7993D32F26486B5400406316 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		7993D33226486B5400406316 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7993D33426486B5400406316 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		799442F427472EFE009BF2A9 /* Calendar.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Calendar.entitlements; sourceTree = "<group>"; };
 		799963D3265997FD00AEC712 /* EKWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EKWrapper.swift; sourceTree = "<group>"; };
+		91F31F842C20571400C53FF6 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		91F31F862C20573A00C53FF6 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		91F31F882C20579600C53FF6 /* ActivityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityViewController.swift; sourceTree = "<group>"; };
+		91F31F8A2C2057BA00C53FF6 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		91F31F8C2C2057C900C53FF6 /* ProgressViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewController.swift; sourceTree = "<group>"; };
+		91F31F8E2C2057E500C53FF6 /* HealthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthManager.swift; sourceTree = "<group>"; };
+		91F31F902C20583400C53FF6 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,11 +73,17 @@
 			children = (
 				799442F427472EFE009BF2A9 /* Calendar.entitlements */,
 				7993D32626486B5300406316 /* AppDelegate.swift */,
+				91F31F842C20571400C53FF6 /* SettingsViewController.swift */,
+				91F31F862C20573A00C53FF6 /* TabBarController.swift */,
 				7993D32826486B5300406316 /* SceneDelegate.swift */,
+				91F31F882C20579600C53FF6 /* ActivityViewController.swift */,
 				7993D32A26486B5300406316 /* CalendarViewController.swift */,
+				91F31F8E2C2057E500C53FF6 /* HealthManager.swift */,
+				91F31F8A2C2057BA00C53FF6 /* HomeViewController.swift */,
+				91F31F8C2C2057C900C53FF6 /* ProgressViewController.swift */,
 				799963D3265997FD00AEC712 /* EKWrapper.swift */,
 				7993D32F26486B5400406316 /* Assets.xcassets */,
-				7993D33126486B5400406316 /* LaunchScreen.storyboard */,
+				91F31F902C20583400C53FF6 /* LaunchScreen.storyboard */,
 				7993D33426486B5400406316 /* Info.plist */,
 			);
 			path = Calendar;
@@ -134,7 +152,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7993D33326486B5400406316 /* LaunchScreen.storyboard in Resources */,
+				91F31F912C20583400C53FF6 /* LaunchScreen.storyboard in Resources */,
 				7993D33026486B5400406316 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -149,22 +167,17 @@
 				7993D32B26486B5300406316 /* CalendarViewController.swift in Sources */,
 				7993D32726486B5300406316 /* AppDelegate.swift in Sources */,
 				7993D32926486B5300406316 /* SceneDelegate.swift in Sources */,
+				91F31F8B2C2057BA00C53FF6 /* HomeViewController.swift in Sources */,
+				91F31F872C20573A00C53FF6 /* TabBarController.swift in Sources */,
+				91F31F892C20579600C53FF6 /* ActivityViewController.swift in Sources */,
+				91F31F8D2C2057C900C53FF6 /* ProgressViewController.swift in Sources */,
+				91F31F852C20571400C53FF6 /* SettingsViewController.swift in Sources */,
 				799963D4265997FD00AEC712 /* EKWrapper.swift in Sources */,
+				91F31F8F2C2057E500C53FF6 /* HealthManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		7993D33126486B5400406316 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7993D33226486B5400406316 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		7993D33526486B5400406316 /* Debug */ = {
@@ -218,7 +231,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -273,7 +286,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -290,15 +303,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Calendar/Calendar.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = RHAKK5TW46;
+				DEVELOPMENT_TEAM = Y5Y2G7UJ92;
 				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
 				INFOPLIST_FILE = Calendar/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ck.Calendar;
+				PRODUCT_BUNDLE_IDENTIFIER = com.farihmhmd.timePossible;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
@@ -313,15 +326,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = Calendar/Calendar.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = RHAKK5TW46;
+				DEVELOPMENT_TEAM = Y5Y2G7UJ92;
 				"ENABLE_HARDENED_RUNTIME[sdk=macosx*]" = YES;
 				INFOPLIST_FILE = Calendar/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ck.Calendar;
+				PRODUCT_BUNDLE_IDENTIFIER = com.farihmhmd.timePossible;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;

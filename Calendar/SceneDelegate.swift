@@ -7,6 +7,7 @@
 
 import UIKit
 
+
 final class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     var window: UIWindow?
     
@@ -17,19 +18,7 @@ final class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         guard let windowScene = (scene as? UIWindowScene) else { return }
         window = UIWindow(frame: windowScene.coordinateSpace.bounds)
         window?.windowScene = windowScene
-        
-        let rootViewController = CalendarViewController()
-        let navigationController = UINavigationController(rootViewController: rootViewController)
-        
-        let appearance = UINavigationBarAppearance()
-        appearance.configureWithOpaqueBackground()
-        appearance.shadowColor = nil
-        
-        let navigationBar = navigationController.navigationBar
-        navigationBar.standardAppearance = appearance
-        navigationBar.scrollEdgeAppearance = appearance
-
-        window?.rootViewController = navigationController
+        window?.rootViewController = TabBarController()
         window?.makeKeyAndVisible()
     }
 }

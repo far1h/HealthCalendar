@@ -24,6 +24,10 @@
 	<true/>
 	<key>NSCalendarsUsageDescription</key>
 	<string>The app needs calendar permission in order to display and edit events</string>
+	<key>NSHealthClinicalHealthRecordsShareUsageDescription</key>
+	<string>Please allow connect Health Data</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Please allow connect Health Data</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
