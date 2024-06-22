@@ -39,3 +39,30 @@ On the progress page, users can choose on the health stats to view their progres
 Settings page: 
 The settings page provides users with the freedom to make our app more personalized by inputting their health goals for steps, active calories, and more. They also have the option to upgrade to premium which have more features. 
 
+![settings4](https://github.com/far1h/HealthCalendar/assets/87598830/d30cc4a8-f002-415b-b1ee-8cc51f00d315)
+![settings3](https://github.com/far1h/HealthCalendar/assets/87598830/1894c803-a1c9-42c8-8187-74053f0a715f)
+![settings2](https://github.com/far1h/HealthCalendar/assets/87598830/1a910b5a-2af2-4536-8c3b-8f683d24dc67)
+<img width="102" alt="settings1" src="https://github.com/far1h/HealthCalendar/assets/87598830/6c5e8039-41cd-4ca5-a533-32844f221192">
+![progress3](https://github.com/far1h/HealthCalendar/assets/87598830/0230f48b-c258-4c42-aa4e-eef6c8479541)
+![progress2](https://github.com/far1h/HealthCalendar/assets/87598830/29c48802-60df-4499-98ea-7d3852673013)
+![progress1](https://github.com/far1h/HealthCalendar/assets/87598830/59574926-4998-4fa3-aff1-bf38b97dab18)
+<img width="93" alt="calapp" src="https://github.com/far1h/HealthCalendar/assets/87598830/feacb758-50e3-4dc8-b1a5-623de385a2cf">
+![cal2](https://github.com/far1h/HealthCalendar/assets/87598830/43ad0e07-9f6f-4880-9590-857f075d7ded)
+![cal1](https://github.com/far1h/HealthCalendar/assets/87598830/3f2670a7-6a68-43ea-9f06-57190557ed03)
+![activitydetails](https://github.com/far1h/HealthCalendar/assets/87598830/df414d9d-0339-49e8-bb20-39d2a0cb571c)
+![addevent2](https://github.com/far1h/HealthCalendar/assets/87598830/f70bbfc9-75d0-48a3-ae14-072e9f2597d4)
+![addevent1](https://github.com/far1h/HealthCalendar/assets/87598830/c26987c4-b8da-4e8e-b4ab-6b39e58d4681)
+![activitypage4](https://github.com/far1h/HealthCalendar/assets/87598830/f26e0f43-600e-4173-befc-fb11742c49a0)
+![activitypage3](https://github.com/far1h/HealthCalendar/assets/87598830/809d3393-cbd3-420b-a1ce-ec3cf66981de)
+![activitypage2](https://github.com/far1h/HealthCalendar/assets/87598830/e62698a9-1e00-498a-b2e5-7c50d62194d2)
+![activitypage1](https://github.com/far1h/HealthCalendar/assets/87598830/7b9891f2-b683-46d9-9e56-6b9ab667f697)
+![recomm3](https://github.com/far1h/HealthCalendar/assets/87598830/0887e7ff-2d1c-4577-850f-fee569212296)
+![recomm2](https://github.com/far1h/HealthCalendar/assets/87598830/1c4126a1-3f88-4b6d-a224-519257e9487b)
+![recomm1](https://github.com/far1h/HealthCalendar/assets/87598830/5335bd2f-2ed2-4705-8bf0-7b2f73374c3d)
+![openai2](https://github.com/far1h/HealthCalendar/assets/87598830/8ca1e87c-8c57-4518-875d-7af14870615b)
+<img width="255" alt="openai1" src="https://github.com/far1h/HealthCalendar/assets/87598830/a25e8e59-83a6-4a63-be24-ef1647ebc536">
+![healthapp](https://github.com/far1h/HealthCalendar/assets/87598830/a32ce4ab-99fc-4ebf-8029-2d6eb45d1d6f)
+![healthdetails](https://github.com/far1h/HealthCalendar/assets/87598830/68cd0caf-af01-4286-b374-cc136fb9fbd5)
+![home2](https://github.com/far1h/HealthCalendar/assets/87598830/adc6a8f8-809d-4448-a260-750433562e49)
+![home1](https://github.com/far1h/HealthCalendar/assets/87598830/4e7e3201-e892-4149-820c-b8e39e66b204)
+
