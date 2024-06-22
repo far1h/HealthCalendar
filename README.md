@@ -1,7 +1,7 @@
 developed the calendar app into an automatic rescheduling calendar with openAI (recommendation) and healthKit integration as well as implemented a to-do list and streak system
 
 ![home2](https://github.com/far1h/HealthCalendar/assets/87598830/adc6a8f8-809d-4448-a260-750433562e49)
-![home1](https://github.com/far1h/HealthCalendar/assets/87598830/4e7e3201-e892-4149-820c-b8e39e66b204)
+![home1](https://github.com/far1h/HealthCalendar/assets/87598830/4e7e3201-e892-4149-820c-b8e39e66b204)\n
 Application Home Page: 
 Users are welcome with their health stats at a glance with the option to see all, Recommendation events to be added to their Apple calendar, and ongoing and upcoming events from their Apple Calendar app.
 
