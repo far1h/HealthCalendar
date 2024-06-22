@@ -1,4 +1,10 @@
-developed the calendar app into an automatic rescheduling calendar with openAI (recommendation) and healthKit integration as well as implemented a to-do list and streak system
+STEPS TO USE APP:
+1. Clone repository to local device (Mac)
+2. Edit YOUR_API_KEY to use recommendation feature
+3. Run Xcode Simulator
+
+developed the calendar app into an automatic rescheduling calendar with openAI (recommendation) and healthKit integration as well as implemented a to-do list and streak system<br />
+<iframe src="https://drive.google.com/file/d/1f8m5m8LLUAH5u4RM69JfpZNKZ6tasMGk/preview" width="640" height="480" allow="autoplay"></iframe><br /><br />
 
 ![home2](https://github.com/far1h/HealthCalendar/assets/87598830/adc6a8f8-809d-4448-a260-750433562e49)
 ![home1](https://github.com/far1h/HealthCalendar/assets/87598830/4e7e3201-e892-4149-820c-b8e39e66b204)<br />
