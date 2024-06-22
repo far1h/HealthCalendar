@@ -4,7 +4,7 @@ STEPS TO USE APP:
 3. Run Xcode Simulator
 
 developed the calendar app into an automatic rescheduling calendar with openAI (recommendation) and healthKit integration as well as implemented a to-do list and streak system<br />
-[View the file on Google Drive](https://drive.google.com/file/d/1f8m5m8LLUAH5u4RM69JfpZNKZ6tasMGk/preview)
+[VIDEO DEMO][(https://github.com/far1h/HealthCalendar/assets/87598830/4e7e3201-e892-4149-820c-b8e39e66b204)](https://drive.google.com/file/d/1f8m5m8LLUAH5u4RM69JfpZNKZ6tasMGk/preview)
 
 
 ![home2](https://github.com/far1h/HealthCalendar/assets/87598830/adc6a8f8-809d-4448-a260-750433562e49)
