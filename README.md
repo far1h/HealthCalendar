@@ -60,7 +60,7 @@ The settings page provides users with the freedom to make our app more personali
 ![recomm2](https://github.com/far1h/HealthCalendar/assets/87598830/1c4126a1-3f88-4b6d-a224-519257e9487b)
 ![recomm1](https://github.com/far1h/HealthCalendar/assets/87598830/5335bd2f-2ed2-4705-8bf0-7b2f73374c3d)
 ![openai2](https://github.com/far1h/HealthCalendar/assets/87598830/8ca1e87c-8c57-4518-875d-7af14870615b)
-![openai1]([https://github.com/far1h/HealthCalendar/assets/87598830/a25e8e59-83a6-4a63-be24-ef1647ebc536)
+![openai1](https://github.com/far1h/HealthCalendar/assets/87598830/a25e8e59-83a6-4a63-be24-ef1647ebc536)
 ![healthapp](https://github.com/far1h/HealthCalendar/assets/87598830/a32ce4ab-99fc-4ebf-8029-2d6eb45d1d6f)
 ![healthdetails](https://github.com/far1h/HealthCalendar/assets/87598830/68cd0caf-af01-4286-b374-cc136fb9fbd5)
 ![home2](https://github.com/far1h/HealthCalendar/assets/87598830/adc6a8f8-809d-4448-a260-750433562e49)
