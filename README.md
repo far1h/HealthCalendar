@@ -6,7 +6,8 @@ STEPS TO USE APP:
 1. Clone repository to local device (Mac)
 2. Edit YOUR_API_KEY to use recommendation feature
 3. Run Xcode Simulator on your iPhone
-4. Provide access to Calendar and Health stats<br /><br />
+4. Provide access to Calendar and Health stats
+5. Open settings page and edit goals<br /><br />
 
 
 
