@@ -5,7 +5,7 @@ developed the calendar app into an automatic rescheduling calendar with openAI (
 STEPS TO USE APP:
 1. Clone repository to local device (Mac)
 2. Edit YOUR_API_KEY to use recommendation feature
-3. Run Xcode Simulator<br /><br />
+3. Run Xcode Simulator on your iPhone<br /><br />
 
 
 
