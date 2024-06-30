@@ -6,10 +6,10 @@ STEPS TO USE APP:
 1. Clone repository to local device (Mac)
 2. Edit YOUR_API_KEY to use recommendation feature
 3. Reconfigure signing & capabilities if necessary
-<img width="991" alt="image" src="https://github.com/far1h/HealthCalendar/assets/87598830/43f2501f-3bc1-44c7-a1ba-ba961d4b00ab">
-5. Run Xcode Simulator on your iPhone
-6. Provide access to Calendar and Health stats
-7. Open settings page and edit goals<br /><br />
+   <img width="991" alt="image" src="https://github.com/far1h/HealthCalendar/assets/87598830/43f2501f-3bc1-44c7-a1ba-ba961d4b00ab">
+4. Run Xcode Simulator on your iPhone
+5. Provide access to Calendar and Health stats
+6. Open settings page and edit goals<br /><br />
 
 
 
